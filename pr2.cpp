@@ -7,4 +7,10 @@ int main() { //mulai
     //langkah 2
     cout << "memasukkan panjang = ";
     cin >> p;
+
+    //langkah 3
+    cout << "memasukkan lebar";
+    cin >> l;
+
+
 }
